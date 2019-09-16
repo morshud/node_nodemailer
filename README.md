@@ -8,6 +8,6 @@ Download as zip
 
 npm install
 
-Make sure to change the 
+Make sure to change the smtp host to your preferred host
 
 http//localhost:3000
